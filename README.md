@@ -1,4 +1,4 @@
-### Hello world ! Eu sou Normando Jefferson. 👋
+### Hello world ! Eu sou Normando Jefferson.
 
 <div>
   <a href="https://github.com/NormandoJefferson">
